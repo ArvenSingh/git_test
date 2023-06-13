@@ -1,0 +1,4 @@
+Hello World!
+This is a training file for learning Git and GitHub using CLI and Web GUI.
+Just going to edit this and stage the file.
+Then will commit all of the files.
